@@ -2680,10 +2680,10 @@ if game:GetService("ReplicatedStorage").Effect.Container:FindFirstChild("Respawn
     game:GetService("ReplicatedStorage").Effect.Container.Respawn:Destroy();
 end
 v16.Home:AddButton({
-    Title = "Discord",
+    Title = "Zalo",
     Description = "Giao Lưu",
     Callback = function()
-        setclipboard("https://discord.gg/tboyroblox");
+        setclipboard("https://zalo.me/g/iwdlce537");
     end
 });
 _G.FastAttackStrix_Mode = "Super Fast Attack";
